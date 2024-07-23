@@ -1,0 +1,3 @@
+D:/studia/4 sem/tik/laby/decompression/cmake-build-debug/CMakeFiles/decompression.dir
+D:/studia/4 sem/tik/laby/decompression/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/studia/4 sem/tik/laby/decompression/cmake-build-debug/CMakeFiles/rebuild_cache.dir
