@@ -2,7 +2,7 @@
 Simple Huffman compression and decompression project in C.
 
 # compression
-Compressin program reads the input file, constructs and sorts a Shannon model, builds a Huffman tree, and generates corresponding coding tables. Finally, it compresses the input file using the Huffman codes and saves the compressed data to a new file.
+Compressing program reads the input file, constructs and sorts a Shannon model, builds a Huffman tree, and generates corresponding coding tables. Finally, it compresses the input file using the Huffman codes and saves the compressed data to a new file.
 
 ### Outputs:
 1. Unsorted Shannon model (.model)
@@ -14,4 +14,4 @@ Compressin program reads the input file, constructs and sorts a Shannon model, b
 7. Compressed file (.Huffman)
 
 # decompression
-To decopress program reads .Huffman file. 
+To decompress program reads .Huffman file. It reads the compressed file, reconstructs the Huffman tree, and then uses this tree to decode the compressed data back to its original form.
